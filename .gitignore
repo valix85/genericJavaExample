@@ -128,5 +128,6 @@ $RECYCLE.BIN/
 
 # End of https://www.gitignore.io/api/intellij,windows,macos,java
 
-.idea
+
 .idea/*
+.idea
